@@ -1,0 +1,2 @@
+101|Apple Premium|2.50|120
+102|Banana|0.75|150
