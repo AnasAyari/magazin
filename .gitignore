@@ -1,0 +1,26 @@
+# Compiled binary
+supermarket
+
+# Data files (can be uncommitted for fresh installs)
+# products.txt
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# CodeQL files
+_codeql_detected_source_root
